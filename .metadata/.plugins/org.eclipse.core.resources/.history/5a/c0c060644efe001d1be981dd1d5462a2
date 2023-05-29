@@ -1,0 +1,13 @@
+package vetor_matriz;
+
+public class Vetores01 {
+
+	public static void main(String[] args) {
+		int vetor[] = {2, 5, 1, 3, 4, 9, 7, 8, 10, 6};
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package vetor_matriz;
+
+public class Vetores01 {
+
+	public static void main(String[] args) {
+		int vetor[] = new int[10];
+	}
+
+}

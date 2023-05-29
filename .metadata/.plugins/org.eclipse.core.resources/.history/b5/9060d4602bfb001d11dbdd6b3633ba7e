@@ -1,0 +1,20 @@
+package laco_condicional;
+
+import java.util.Scanner;
+public class exercicio6 {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String name ;
+		int codigo;
+		float salario;
+		
+		System.out.println("Digite o nome do colaborador: ");
+		name = in.nextLine();
+		
+		
+		
+
+	}
+
+}

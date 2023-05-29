@@ -1,0 +1,10 @@
+package laco_condicional;
+
+public class ExerciciodoWhile {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(system.in);
+
+	}
+
+}

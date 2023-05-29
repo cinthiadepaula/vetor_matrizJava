@@ -1,0 +1,23 @@
+package laco_condicional;
+
+import java.util.Scanner;
+
+public class Exerciciofor {
+
+	public static void main(String[] args) {
+	Scanner in = new Scanner(System.in);
+	
+	int i, num1, num2;
+	
+	System.out.println("Insira 2 numeros");
+	num1 = in.nextInt();
+	num2 = in.nextInt();
+	
+	for(i = num1; i <= num2; i++) {
+		
+		System.out.println(i);
+	}
+
+	}
+
+}

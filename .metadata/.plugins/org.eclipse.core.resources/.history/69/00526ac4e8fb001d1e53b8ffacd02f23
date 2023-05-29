@@ -1,0 +1,14 @@
+package laco_condicional;
+
+import java.util.Scanner;
+
+public class Exerciciofor {
+
+	public static void main(String[] args) {
+	Scanner in = new Scanner(System.in);
+	
+	
+
+	}
+
+}

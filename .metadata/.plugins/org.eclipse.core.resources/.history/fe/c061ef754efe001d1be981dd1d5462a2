@@ -1,0 +1,15 @@
+package vetor_matriz;
+
+public class Vetores01 {
+
+	public static void main(String[] args) {
+		int vetor[] = {2, 5, 1, 3, 4, 9, 7, 8, 10, 6};
+		
+		for(int i = 0; i < vetor.length; i++) {
+			System.out.println((i+1) + "º numero " + vetor[i]);
+		}
+		
+		
+	}
+
+}
